@@ -1,4 +1,4 @@
-# Billiard Game based on Opengl
+# Billiard Game based on OpenGL
 
 # 1 Basic Points
 
