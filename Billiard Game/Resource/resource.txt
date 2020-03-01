@@ -1,0 +1,32 @@
+#Models: 12
+ID 0
+FILE "./Resource/Model/Table/Table.obj"
+ID 1
+FILE "./Resource/Model/ROOM/ROOM.obj"
+ID 2
+FILE "./Resource/Model/Balls/Ball_0.obj"
+ID 3
+FILE "./Resource/Model/Balls/Ball_1.obj"
+ID 4
+FILE "./Resource/Model/Balls/Ball_2.obj"
+ID 5
+FILE "./Resource/Model/Balls/Ball_3.obj"
+ID 6
+FILE "./Resource/Model/Balls/Ball_4.obj"
+ID 7
+FILE "./Resource/Model/Balls/Ball_5.obj"
+ID 8
+FILE "./Resource/Model/Balls/Ball_6.obj"
+ID 9
+FILE "./Resource/Model/Balls/Ball_7.obj"
+ID 10
+FILE "./Resource/Model/Balls/Ball_8.obj"
+ID 11
+FILE "./Resource/Model/Balls/Ball_9.obj"
+
+
+#Shaders: 1
+ID 0
+VS "./Resource/Shader/shader.vert"
+FS "./Resource/Shader/shader.frag"
+
